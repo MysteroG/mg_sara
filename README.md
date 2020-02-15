@@ -1,5 +1,5 @@
-# mg_sara
-MG Systeme d'Assistance Routière Automatisé
+# MG Systeme d'Assistance Routière Automatisé (mg_sara)
+
 
 Ce script s'active en cas d'accident.
 
